@@ -1,4 +1,4 @@
- <img src="https://barberimages2.s3.amazonaws.com/gobarber+img/170-full.png/logo.svg" height = "150"/>
+ <img src="s3://barberimages2/gobarber img/170-full.png" height = "150"/>
 
 # Adonis API application
 
