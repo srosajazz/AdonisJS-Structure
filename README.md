@@ -1,4 +1,4 @@
-  <img src="https://barberimages2.s3.amazonaws.com/barber/170-full.png" height ="600" width = "800" />
+  <img src="https://barberimages2.s3.amazonaws.com/barber/170-full.png" height ="300" width = "400" />
 
 # Adonis API application
 
